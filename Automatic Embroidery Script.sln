@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Automatic Embroidery Script", "Automatic Embroidery Script\Automatic Embroidery Script.pyproj", "{BF50686E-E579-467E-A392-5A3E3C2ECBB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF50686E-E579-467E-A392-5A3E3C2ECBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF50686E-E579-467E-A392-5A3E3C2ECBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2F21A93-F57F-40B1-8F14-C0BAAA375930}
+	EndGlobalSection
+EndGlobal
